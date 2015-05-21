@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionProject", "ExpressionProject\ExpressionProject.csproj", "{DE830288-C652-44A0-8B7C-D59301209B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionProject.Tests", "ExpressionProject.Tests\ExpressionProject.Tests.csproj", "{3ECA30CF-05CA-433F-AD79-5F65E9B2884D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE830288-C652-44A0-8B7C-D59301209B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE830288-C652-44A0-8B7C-D59301209B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE830288-C652-44A0-8B7C-D59301209B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE830288-C652-44A0-8B7C-D59301209B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ECA30CF-05CA-433F-AD79-5F65E9B2884D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECA30CF-05CA-433F-AD79-5F65E9B2884D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECA30CF-05CA-433F-AD79-5F65E9B2884D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECA30CF-05CA-433F-AD79-5F65E9B2884D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

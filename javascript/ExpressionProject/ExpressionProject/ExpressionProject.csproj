@@ -65,6 +65,18 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="expressionParser\Add.js" />
+    <Content Include="expressionParser\Div.js" />
+    <Content Include="expressionParser\Equal.js" />
+    <Content Include="expressionParser\LeftBracket.js" />
+    <Content Include="expressionParser\main.js" />
+    <Content Include="expressionParser\Multipy.js" />
+    <Content Include="expressionParser\RightBracket.js" />
+    <Content Include="expressionParser\Subtract.js" />
+    <Content Include="js\esl.js" />
+    <Content Include="operation-test\Assert.js" />
+    <Content Include="operation-test\operation.html" />
+    <Content Include="operation-test\operation.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
